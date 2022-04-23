@@ -1,10 +1,15 @@
+import "./App.css"
 import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Pls work</h1>
+      <h1>React Website</h1>
+      <section class ="header">
+      <li></li>
+      <li></li>
+      <li></li>
+      </section>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -24,3 +29,4 @@ function App() {
 }
 
 export default App;
+
