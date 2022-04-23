@@ -1,10 +1,18 @@
+.websiten{
+  
+  padding: 40px;
+  background:#44c268;
+
+}
 .App {
   text-align: center;
+  font-family:cursive;
 }
+
 .header {
   padding: 80px;
   text-align: center;
-  background: #868182
+  background: #ffffff
 
 }
 
@@ -20,7 +28,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #11af3e81;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
