@@ -1,6 +1,6 @@
 import "./App.css"
 import logo from './logo.svg';
-import design from './img/Design.png';
+
 
 function App() {
   return (
@@ -48,7 +48,7 @@ The Fundamentals of Art on the Internet
 
 
         </p>
-        <img src={design} alt="design"></img>
+        
       </section>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
